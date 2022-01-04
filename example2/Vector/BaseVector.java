@@ -1,7 +1,7 @@
 package com.teachmeskills.lesson_7_8.vector.example2.Vector;
 
 
-public class BaseVector {
+public abstarct class BaseVector {
     protected double x;
     protected double y;
 
