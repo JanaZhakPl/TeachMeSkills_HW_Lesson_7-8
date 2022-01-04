@@ -1,7 +1,7 @@
 package com.teachmeskills.Vectors.Vector;
 
 
-public class BaseVector implements IVector{
+public abstract class BaseVector implements IVector{
     protected double x;
     protected double y;
 
